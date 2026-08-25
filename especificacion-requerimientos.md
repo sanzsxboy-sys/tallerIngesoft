@@ -58,6 +58,7 @@ El sistema debe permitir al estudiante solicitar un cupo para la asistir a la tu
 #### Entradas
 
 | Entrada | Tipo de dato | Descripción |
+|---|---|---|
 |idEstudiante|String|Codigo de identificacion del estudiante|
 |idTutoria|String|Codigo de identificacion de la tutoria|
 
@@ -71,6 +72,7 @@ El sistema debe permitir al estudiante solicitar un cupo para la asistir a la tu
 #### Salidas
 
 | Salida | Tipo de dato | Descripción |
+|---|---|---|
 |mensajeConfirmacion|String|Mensaje en caso de exito|
 |mensajeError|String|Mensaje en caso de no cumplir alguna de las condiciones|
 
