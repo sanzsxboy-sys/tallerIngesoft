@@ -6,10 +6,10 @@
 
 - Nombre:sebastian sanchez sotelo
 - Nombre:isabella forero duarte
-- Nombre:juan esteban peña
-- Nombre:
-- Nombre:
-- Nombre:
+- Nombre:jacobo cardona
+- Nombre:miguel angel asprilla
+- Nombre:kevin santiago delgado
+- Nombre:santiago calero
 
 ## 3. Requerimientos Funcionales
 
