@@ -5,8 +5,9 @@
 ## 2. Integrantes
 
 - Nombre:sebastian sanchez sotelo
-- Nombre:isabela forero
+- Nombre:isabella forero duarte
 - Nombre:juan esteban peña
+- Nombre:
 - Nombre:
 - Nombre:
 
