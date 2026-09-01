@@ -5,10 +5,11 @@
 ## 2. Integrantes
 
 - Nombre:sebastian sanchez sotelo
-- Nombre:isabela forero
-- Nombre:juan esteban peña
-- Nombre:
-- Nombre:
+- Nombre:isabella forero duarte
+- Nombre:jacobo cardona
+- Nombre:miguel angel asprilla
+- Nombre:kevin santiago delgado
+- Nombre:santiago calero
 
 ## 3. Requerimientos Funcionales
 
