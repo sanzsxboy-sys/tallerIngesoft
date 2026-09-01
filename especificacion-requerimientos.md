@@ -126,7 +126,27 @@ El sistema debe permitir al estudiante solicitar un cupo para la asistir a la tu
 ## 4. Gestión de Versiones
 
 ### Ramas utilizadas
+- main
+- develop
+- feature/rf01
+- feature/rf02
+- feature/rf-03
+- feature/rf04
+- feat/docs
+
 
 ### Proceso de integración
+main
+   ↓
+develop
+   ↓
+feature/*
+   ↓
+develop
+   ↓
+main
+
+Se agrego una feature de docs para organizar la documentacion
 
 ### Conflictos encontrados
+Hubo conflictos y se solucionaron dejando el codigo que se necesitaba y borrando lo viejo, el que entro en conflicto fue feature/rf-4 con develop
