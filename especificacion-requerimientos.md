@@ -99,6 +99,7 @@ El sistema debe permitir al estudiante solicitar un cupo para la asistir a la tu
 #### Resultado esperado
 
 
+
 ## 4. Gestión de Versiones
 
 ### Ramas utilizadas
