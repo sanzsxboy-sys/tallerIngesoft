@@ -106,6 +106,7 @@ que el proceso se cumpla exitosamente
 #### Resultado esperado
 ## Que el sistema de el mensaje de confirmación salga confirmando que el resto de los procesos se cumplieron, esto significa que el sistema libero el espacio de reserva.
 
+
 ## 4. Gestión de Versiones
 
 ### Ramas utilizadas
